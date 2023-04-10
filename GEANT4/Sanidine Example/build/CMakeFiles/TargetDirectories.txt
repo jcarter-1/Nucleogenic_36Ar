@@ -1,0 +1,4 @@
+/Users/jackcarter/Desktop/GEANT4/Sanidine_Irradiation/Sanidine_Irr/build/CMakeFiles/rebuild_cache.dir
+/Users/jackcarter/Desktop/GEANT4/Sanidine_Irradiation/Sanidine_Irr/build/CMakeFiles/edit_cache.dir
+/Users/jackcarter/Desktop/GEANT4/Sanidine_Irradiation/Sanidine_Irr/build/CMakeFiles/Irradiation.dir
+/Users/jackcarter/Desktop/GEANT4/Sanidine_Irradiation/Sanidine_Irr/build/CMakeFiles/sim.dir

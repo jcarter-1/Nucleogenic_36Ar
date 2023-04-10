@@ -1,0 +1,61 @@
+#
+# Test Run 1
+#
+#
+/run/initialize
+/run/beamOn 1000000
+#
+# Test Run 2
+#
+#
+/run/beamOn 6000000
+#
+# Test Run 3
+#
+#
+/run/beamOn 61000000
+#
+# Test Run 4
+#
+#
+/run/beamOn 20000000
+#
+# Test Run 5
+#
+#
+/run/beamOn 34000000
+#
+# Test Run 6
+#
+#
+/run/beamOn 98000000
+#
+# Test Run 6
+#
+#
+/run/beamOn 98000000
+#
+# Test Run 6
+#
+#
+/run/beamOn 121000000
+#
+# Test Run 6
+#
+#
+/run/beamOn 76000000
+#
+# Test Run 6
+#
+#
+/run/beamOn 90000000
+#
+# Test Run 6
+#
+#
+/run/beamOn 121000000
+#
+# Test Run 6
+#
+#
+/run/beamOn 20000000
