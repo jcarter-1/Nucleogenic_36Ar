@@ -1,0 +1,6 @@
+#
+# Test Run 1
+#
+#
+/run/initialize
+/run/beamOn 1000000000
